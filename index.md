@@ -1,6 +1,6 @@
 <img src="mauricio.jpg">
 
-# **Josué Ríos Aguilar**
+# **Maurisio**
 ## Objetivo Profesional
 Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
 de Office 365. Como también, un certificado MOS Excel.
