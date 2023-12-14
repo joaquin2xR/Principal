@@ -1,4 +1,4 @@
-<img src="[https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png](https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png)">
+<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png](https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
 
 # **Josué Ríos Aguilar**
 ## Objetivo Profesional
